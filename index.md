@@ -5,4 +5,4 @@ I will be using this site to document my personal projects.
 
 ## Projects
 
-- [8-bit Computer](projects/8bit_computer/)
+- [8-bit Computer](projects/8-bit_computer/)
