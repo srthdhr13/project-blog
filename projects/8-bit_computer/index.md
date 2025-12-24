@@ -4,6 +4,6 @@ I'm trying to build an 8 bit computer from basic logic. I had this idea for a wh
 
 # How?
 
-Well I've decided to follow Ben Eater's playlist and decided to implement it in Logisim.
+Well I've decided to follow Ben Eater's playlist and implement it in Logisim.
 
 
